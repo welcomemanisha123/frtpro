@@ -37,3 +37,6 @@ App Services URL : https://repaynetbanking.azurewebsites.net/
 ![Screenshot 2022-11-25 214505](https://user-images.githubusercontent.com/116649393/204024621-359b0de3-e9fa-4387-9736-ea702a54b01f.jpg)
 ![Screenshot 2022-11-25 214345](https://user-images.githubusercontent.com/116649393/204024662-c6ba1895-2f0c-45d0-8724-7630d4eb8201.jpg)
 
+## Azure Services Used
+![Screenshot 2022-11-25 215737](https://user-images.githubusercontent.com/116649393/204025278-68a4b451-9aff-4e27-8eca-0ba3123ebbd0.jpg)
+
