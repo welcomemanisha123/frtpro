@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'RepayNetBanking'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_407197667248454295EFE3A6D5239C71 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3704E2A770F74E47BCD51583118B4B4B }}
           package: .
