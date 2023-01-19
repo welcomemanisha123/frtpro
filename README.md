@@ -8,7 +8,7 @@ IDE: VS-Code
 
 Industry : Fintech
 
-Project Title : Repay Net Banking
+Project Title : Repay Online
 
 Problem Statement/Opportunity : Every One digital payments for quick transaction between gateways.
 
