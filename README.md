@@ -2,7 +2,7 @@ Description : Enter the EMI amount and select the preferred payment method, i.e.
 
 Microsoft-Future-Ready-Talent-Internship-Project This is Front End website
 
-Web Technologies used: HTML, CSS, JS.
+Web Technologies used: HTML, CSS.
 
 IDE: VS-Code
 
@@ -41,6 +41,12 @@ App Services URL : https://repaynetbanking.azurewebsites.net/
 ![Screenshot_20230119_082833](https://user-images.githubusercontent.com/116649393/213482668-6a3516a2-c050-40b9-91f2-7b9c00f8708c.png)
 
 
-## Azure Services Used
-![Screenshot 2022-11-25 215737](https://user-images.githubusercontent.com/116649393/204025278-68a4b451-9aff-4e27-8eca-0ba3123ebbd0.jpg)
+## Azure Services 
+![Screenshot 2023-01-22 145913](https://user-images.githubusercontent.com/116649393/213909016-841c8ce5-a2f8-44ba-a487-3c27629d03d6.jpg)
+![Screenshot 2023-01-22 150129](https://user-images.githubusercontent.com/116649393/213909030-9d09d2cd-712c-46d4-b0d5-7d458a4601e2.jpg)
+![Screenshot 2023-01-22 150441](https://user-images.githubusercontent.com/116649393/213909121-6a9c2885-c8e7-4aa6-884c-3e2c4b1e43fe.jpg)
+![Screenshot 2023-01-22 150519](https://user-images.githubusercontent.com/116649393/213909122-c666ab76-add0-4c70-8521-355765a03dfc.jpg)
+![Screenshot 2023-01-22 150519](https://user-images.githubusercontent.com/116649393/213909181-a932c912-040c-422b-989b-482248066d55.jpg)
+![Screenshot 2023-01-22 150719](https://user-images.githubusercontent.com/116649393/213909182-c805c99f-d22f-41b4-a724-682a66d24ed6.jpg)
+
 
