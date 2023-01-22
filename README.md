@@ -20,6 +20,8 @@ Static Web App URL : https://agreeable-sea-06f99b010.2.azurestaticapps.net/conta
 
 App Services URL : https://repaynetbanking.azurewebsites.net/
 
+Demo Video URL : https://drive.google.com/drive/u/1/folders/1pvdiPZ2UmRHPtDjt2ok0VGSOOV6O46xG
+
 ## My Website Link : https://agreeable-sea-06f99b010.2.azurestaticapps.net/contact.html
 
 ## Home
